@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/AlignToEx1/274514146_1890431230_223132457.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/AlignToEx1/2789044632_934001457_3532314268.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/AlignToEx1/2789044632_3315967912_331962484.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/AlignToEx1/2789044632_3955214912_631423253.mp4'

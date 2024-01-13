@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/Intro_2/274514146_884480339_223132457.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/Intro_2/2789044632_3315967912_535781668.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/Intro_2/2789044632_1867478615_1587001630.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/Intro_2/2789044632_561613495_1587001630.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/Intro_2/2789044632_1795232218_3663450327.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/Intro_2/2789044632_3315967912_2703678700.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/Intro_2/2789044632_279214610_758490246.mp4'
+file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/Intro_2/2789044632_3315967912_2631499151.mp4'

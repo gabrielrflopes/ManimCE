@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Abertura/571797994_2196378219_223132457.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Abertura/3935848522_4041309342_2638030918.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Abertura/3935848522_1618340450_3046601486.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Abertura/3935848522_4134595580_1321290184.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Abertura/3935848522_976431671_2793881291.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Abertura/3935848522_2043224038_3759552905.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Abertura/3935848522_191480264_3375352887.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Abertura/3935848522_2043224038_3547520947.mp4'

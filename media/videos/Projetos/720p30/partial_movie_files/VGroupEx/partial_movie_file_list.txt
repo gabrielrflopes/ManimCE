@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/VGroupEx/274514146_372643797_223132457.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/VGroupEx/2789044632_2807829603_1189724542.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/VGroupEx/2789044632_2874152696_2358810818.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/VGroupEx/2789044632_3315967912_1358938539.mp4'

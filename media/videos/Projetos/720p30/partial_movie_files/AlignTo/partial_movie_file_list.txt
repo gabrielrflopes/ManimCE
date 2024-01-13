@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/AlignTo/274514146_2112035212_223132457.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/AlignTo/2789044632_587307477_1912214345.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/AlignTo/2789044632_304578607_1912214345.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/AlignTo/2789044632_1904242141_1912214345.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/AlignTo/2789044632_849285798_1912214345.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/AlignTo/2789044632_4107892896_1912214345.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/AlignTo/2789044632_3296440013_1912214345.mp4'
-file 'file:D:/Manim/Projetos/media/videos/Projetos/720p30/partial_movie_files/AlignTo/2789044632_3315967912_631829896.mp4'

@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/571797994_54220514_223132457.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_14761379_2735170154.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_1492637582_4258595649.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_2380729765_434108178.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_1492637582_3862695380.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_2175283195_1016402847.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_1492637582_3220320141.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_2866824673_2414637847.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_3418091985_1393024260.mp4'
+file 'file:D:/Manim/Projetos/media/videos/Projetos/1080p60/partial_movie_files/Space/3935848522_1492637582_2079173121.mp4'

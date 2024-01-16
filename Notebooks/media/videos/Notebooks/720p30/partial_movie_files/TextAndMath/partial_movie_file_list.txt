@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/TextAndMath/274514146_775218462_223132457.mp4'
-file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/TextAndMath/2789044632_3315967912_1638039476.mp4'
-file 'file:D:/Manim/Projetos/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/TextAndMath/2789044632_165217938_295725276.mp4'
